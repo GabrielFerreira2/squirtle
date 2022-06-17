@@ -1,0 +1,23 @@
+{
+    "prefix": "!",
+    "guildId": "797933852538175488",
+    "category": "986759675397685340",
+    "button": {
+        "channel": "986716802824409128",
+        "parent": "797933852538175489"
+    },
+    "final": {
+        "channel": "944404665032917133",
+        "parent": "797933852538175489"
+    },
+    "emojis": {
+        "complete": "✅",
+        "incomplete": "❌"
+    },
+    "questions": [
+        {
+            "name": "Starting time",
+            "type": "date"
+        }
+    ]
+}
